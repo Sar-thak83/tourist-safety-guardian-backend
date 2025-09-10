@@ -25,7 +25,7 @@ env.bak/
 Thumbs.db
 
 # ---- Logs & Outputs ----
-*.log
+
 *.out
 *.err
 
