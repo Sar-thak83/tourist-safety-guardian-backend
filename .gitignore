@@ -1,0 +1,36 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ---- Virtual Environments ----
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+
+# ---- IDEs & Editors ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs & Outputs ----
+*.log
+*.out
+*.err
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_save
+
+# ---- Models & Da
